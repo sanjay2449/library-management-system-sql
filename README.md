@@ -1,5 +1,4 @@
 # 📚 Library Management System | PostgreSQL SQL Project
-![ER Diagram](https://github.com/sanjay2449/library-management-system-sql/blob/main/Library_Management_System_Project/Screenshots/library_erd.png)
 ## 📌 Project Overview
 
 The **Library Management System** is a SQL-based database project built using **PostgreSQL**. It simulates the operations of a real-world library by managing books, members, employees, branches, book issuance, and returns.
@@ -52,8 +51,9 @@ Branch
    │
  Members
 ```
-
 ---
+
+![ER Diagram](https://github.com/sanjay2449/library-management-system-sql/blob/main/Library_Management_System_Project/Screenshots/library_erd.png)
 
 # 📚 SQL Concepts Covered
 

@@ -1,4 +1,11 @@
 # 📚 Library Management System | PostgreSQL SQL Project
+
+
+![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=for-the-badge)
+![Level](https://img.shields.io/badge/Level-Beginner-success?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Business%20Insights-orange?style=for-the-badge)
+
+
 ## 📌 Project Overview
 
 The **Library Management System** is a SQL-based database project built using **PostgreSQL**. It simulates the operations of a real-world library by managing books, members, employees, branches, book issuance, and returns.
